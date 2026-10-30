@@ -4,7 +4,7 @@ Bichinho virtual com um gatinho de peluche: dar-lhe comida, banho e mimos, pô-l
 
 **▶ Jogar:** https://danianecrissouza99-creator.github.io/Projeto_Novelo/
 
-Projeto da UC **Testes e Qualidade de Software** (ISTEC). O jogo tem defeitos de propósito: o objetivo é encontrá-los e registá-los.
+Projeto da UC **Testes e Qualidade de Software** (ISTEC).
 
 Feito com HTML, CSS e JavaScript.
 
